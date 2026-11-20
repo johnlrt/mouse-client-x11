@@ -13,6 +13,8 @@
 [![Tests](https://img.shields.io/badge/Tests-19%2F19%20Unit%20%2B%205%2F5%20Protocol-2EA043?style=flat-square)](tests/X11Mouse.Tests/X11Mouse.Tests.csproj)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
+**English** | [Русский](README.ru.md) | [简体中文](README.zh-CN.md)
+
 </div>
 
 ---
